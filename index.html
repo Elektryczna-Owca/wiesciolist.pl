@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wieściolist - Twój Newsletter</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="bg-gray-50">
+    <!-- Navigation -->
+    <nav class="bg-white shadow-lg fixed w-full z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <a href="#" class="text-2xl font-bold text-indigo-600">Wieściolist</a>
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#witaj" class="text-gray-700 hover:text-indigo-600">Witaj</a>
+                    <a href="#co-to-jest" class="text-gray-700 hover:text-indigo-600">Co to jest?</a>
+                    <a href="#po-co" class="text-gray-700 hover:text-indigo-600">Po co?</a>
+                    <a href="#kontakt" class="text-gray-700 hover:text-indigo-600">Kontakt</a>
+                    <a href="#wypisanie" class="text-gray-700 hover:text-indigo-600">Wypisanie</a>
+                    <a href="#zasady" class="text-gray-700 hover:text-indigo-600">Zasady</a>
+                </div>
+                <div class="md:hidden flex items-center">
+                    <button class="mobile-menu-button p-2 rounded-md text-gray-700 hover:text-indigo-600">
+                        <i class="fas fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile menu -->
+        <div class="mobile-menu hidden md:hidden">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+                <a href="#witaj" class="block px-3 py-2 text-gray-700 hover:text-indigo-600">Witaj</a>
+                <a href="#co-to-jest" class="block px-3 py-2 text-gray-700 hover:text-indigo-600">Co to jest?</a>
+                <a href="#po-co" class="block px-3 py-2 text-gray-700 hover:text-indigo-600">Po co?</a>
+                <a href="#kontakt" class="block px-3 py-2 text-gray-700 hover:text-indigo-600">Kontakt</a>
+                <a href="#wypisanie" class="block px-3 py-2 text-gray-700 hover:text-indigo-600">Wypisanie</a>
+                <a href="#zasady" class="block px-3 py-2 text-gray-700 hover:text-indigo-600">Zasady</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="witaj" class="pt-24 pb-12 bg-gradient-to-r from-indigo-500 to-purple-600">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+            <div class="text-center">
+                <h1 class="text-4xl md:text-6xl font-bold text-white mb-6">Witaj</h1>
+                <p class="text-xl text-white/90 mb-8">na oficjalnej stronie naszego Wieścioslistu. Strona nie jest indeksowana przez Google, żadne AI nie powinno jej znaleźć, nie ma nas na żadnych mediach społecznościowych. Nawet rolki nie mamy na insta.</p>
+                <p class="text-xl text-white/90 mb-8">Wobec tego, musisz być jednym z naszych znajomych :).</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Co to jest? Section -->
+    <section id="co-to-jest" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Co to jest?</h2>
+                <div class="w-24 h-1 bg-indigo-600 mx-auto"></div>
+            </div>
+            <div class="max-w-3xl mx-auto text-center">
+                <p class="text-lg text-gray-600 mb-8">
+                    Newsletter, czyli po prostu wysyłany regularnie email. W naszym wypadku w każdy poniedziałek. Póki co daliśmy radę co tydzień, chociaż czasami z lekkim opóźnieniem.
+                </p>
+                <p class="text-lg text-gray-600">
+                    Na tej stronie natomiast zamieszczamy ogólne informacje o naszym projekcie, tak żeby wyglądało profesjonalnie.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- O czym? Section -->
+    <section id="o-czym" class="py-20 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">O czym?</h2>
+                <div class="w-24 h-1 bg-indigo-600 mx-auto"></div>
+            </div>
+            <div class="max-w-3xl mx-auto">
+                <p class="text-lg text-gray-600 mb-8 text-center">Piszemy głównie na tematy związane z:</p>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="bg-white p-6 rounded-lg shadow-lg">
+                        <div class="text-indigo-600 text-4xl mb-4">
+                            <i class="fas fa-shield-alt"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-3 text-indigo-600">Cyberbezpieczeństwo i prywatność</h3>
+                        <p class="text-gray-600">Temat Tomka</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-lg">
+                        <div class="text-indigo-600 text-4xl mb-4">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-3 text-indigo-600">Sztuczna inteligencja</h3>
+                        <p class="text-gray-600">Greg</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-lg">
+                        <div class="text-indigo-600 text-4xl mb-4">
+                            <i class="fas fa-hat-wizard"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-3 text-indigo-600">Przemyślenia o przyszłości</h3>
+                        <p class="text-gray-600">Greg</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-lg">
+                        <div class="text-indigo-600 text-4xl mb-4">
+                            <i class="fas fa-laugh-beam"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-3 text-indigo-600">Sekcja humorystyczna</h3>
+                        <p class="text-gray-600">Tomek</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Po co? Section -->
+    <section id="po-co" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Po co?</h2>
+                <div class="w-24 h-1 bg-indigo-600 mx-auto"></div>
+            </div>
+            <div class="max-w-3xl mx-auto text-center">
+                <p class="text-lg text-gray-600">
+                    No dobre pytanie, w sumie czy wszystko musi mieć jakieś uzasadnienie? My piszemy, parę osób przeczyta… i w sumie tyle.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Kontakt Section -->
+    <section id="kontakt" class="py-20 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Kontakt z nami</h2>
+                <div class="w-24 h-1 bg-indigo-600 mx-auto"></div>
+            </div>
+            <div class="max-w-3xl mx-auto text-center">
+                <p class="text-lg text-gray-600 mb-8">
+                    Aby odpisać, wystarczy nacisnąć "odpowiedz". Adres do odpowiedzi, to prywatny email Tomka.
+                </p>
+                <p class="text-lg text-gray-600">
+                    Bardzo prosimy o podsyłanie nam materiałów, linków o których warto wspomnieć. Jeżeli chcecie się ogólnie czymś pochwalić / podzielić, to śmiało.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Wypisanie Section -->
+    <section id="wypisanie" class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Wypisanie</h2>
+                <div class="w-24 h-1 bg-indigo-600 mx-auto"></div>
+            </div>
+            <div class="max-w-3xl mx-auto text-center">
+                <p class="text-lg text-gray-600">
+                    Jeżeli masz dosyć nas albo tego co piszemy, to kliknij "odpowiedz" i wyślij nam email o treści "dajcie mi Święty Spokój".
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Zasady Section -->
+    <section id="zasady" class="py-20 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Zasady</h2>
+                <div class="w-24 h-1 bg-indigo-600 mx-auto"></div>
+            </div>
+            <div class="max-w-3xl mx-auto space-y-8">
+                <div class="bg-white p-6 rounded-lg">
+                    <h3 class="text-xl font-semibold mb-3 text-indigo-600">1. Bez AI</h3>
+                    <p class="text-gray-600">Będziemy ostatnim na świecie newsletterem pisanym bez użycia AI. W dzisiejszych czasach to rewolucja - pisane bez użycia ChatGPT. Oznacza to, że otrzymujecie treści oryginalne ale na pewno nie tak dopracowane stylistycznie jak przy użyciu generatora. Innymi słowy - proszę nam wybaczyć pomyłki i niedociągnięcia. Na pewno będą - choć robimy co możemy (tzn. Tomek robi, poprawiając błędy ortograficzne w tekstach Grega).</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg">
+                    <h3 class="text-xl font-semibold mb-3 text-indigo-600">2. Tematy</h3>
+                    <p class="text-gray-600">Nie interesujemy się polityką ani religią.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg">
+                    <h3 class="text-xl font-semibold mb-3 text-indigo-600">3. Wiarygodność</h3>
+                    <p class="text-gray-600">Wiadomości staramy się sprawdzać rzetelnie - jeżeli napiszemy coś nie tak, bardzo prosimy o informację - sprostujemy w następnym wydaniu.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center">
+                <h2 class="text-2xl font-bold mb-4">Wieściolist</h2>
+                <p class="text-gray-400 mb-6">Życzymy Ci miłego dnia.</p>
+                <!-- <p class="mt-8 text-gray-400 text-sm">
+                    © 2024 Wieściolist
+                </p> -->
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile menu script -->
+    <script>
+        const mobileMenuButton = document.querySelector('.mobile-menu-button');
+        const mobileMenu = document.querySelector('.mobile-menu');
+
+        mobileMenuButton.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Close mobile menu when clicking a link
+        document.querySelectorAll('.mobile-menu a').forEach(link => {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
+        });
+    </script>
+</body>
+</html> 
