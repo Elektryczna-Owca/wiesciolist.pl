@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Wieściolist</title>
+    <link>https://wiesciolist.pl</link>
+    <description>Wieściolist – newsletter o technologii i AI w formie audio. Dla tych, którym się nie chce czytać.</description>
+    <language>pl</language>
+    <copyright>Wieściolist</copyright>
+    <atom:link href="https://wiesciolist.pl/podcast.xml" rel="self" type="application/rss+xml"/>
+
+    <itunes:author>Wieściolist</itunes:author>
+    <itunes:summary>Wieściolist – newsletter o technologii i AI w formie audio. Dla tych, którym się nie chce czytać.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Wieściolist</itunes:name>
+      <itunes:email>kontakt@wiesciolist.pl</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+
+    <item>
+      <title>Wieściolist #001 – Złośliwe rozszerzenia AI, 71% obrazów generowanych przez AI, awatarzy influencerzy</title>
+      <link>https://wiesciolist.pl/wiesciolist_001.mp3</link>
+      <guid isPermaLink="false">wiesciolist-001</guid>
+      <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>W tym odcinku:</p>
+        <ul>
+          <li>Złośliwe rozszerzenia do Chrome korzystające z AI – jak działają i dlaczego warto posprzątać przeglądarkę</li>
+          <li>71% obrazów w mediach społecznościowych generowanych lub poprawianych przez AI</li>
+          <li>AI influencerzy i awatarzy – trendy, przykłady (Aytana Lopez), i pierwsza polska influencerka CGI</li>
+          <li>Rośnie wartość „human made" – autentyczność jako premium</li>
+          <li>BeReal jako odpowiedź na generatywną perfekcję</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://wiesciolist.pl/wiesciolist_001.mp3" length="12054773" type="audio/mpeg"/>
+      <itunes:title>Wieściolist #001</itunes:title>
+      <itunes:summary>Złośliwe rozszerzenia AI w Chrome, 71% obrazów generowanych przez AI w social media, influencerzy-awatarzy i rosnąca wartość autentyczności.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
