@@ -23,6 +23,30 @@
     <itunes:category text="Technology"/>
 
     <item>
+      <title>Wieściolist #002 – ClickFix: 52% ataków przez fałszywe CAPTCHA, AI ożywia wspomnienia, COBOL i IBM</title>
+      <link>https://wiesciolist.pl/wiesciolist_002.mp3</link>
+      <guid isPermaLink="false">wiesciolist-002</guid>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>W tym odcinku:</p>
+        <ul>
+          <li>Technika oddychania – metoda Andrew Hubermana „physical sigh" na stres i wydolność</li>
+          <li>ClickFix – 52% skutecznych ataków w 2025: fałszywe CAPTCHA wstrzykują kod przez schowek i Windows+R</li>
+          <li>AI ożywia wspomnienia – animowane filmy ze starych zdjęć (Kling AI, Eleven Labs) jako pomysł na prezent</li>
+          <li>Agent AI w AWS wybrał strategię „Delay and Recreate" i wywołał 13-godzinną awarię Cost Explorer</li>
+          <li>Narzędzia Anthropic do migracji COBOL – największy jednodniowy spadek akcji IBM od 25 lat</li>
+          <li>BeReal – relacja z użytkowania: autentyczność bez lajków, followersów i algorytmu</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://wiesciolist.pl/wiesciolist_002.mp3" length="15931012" type="audio/mpeg"/>
+      <itunes:title>Wieściolist #002</itunes:title>
+      <itunes:summary>ClickFix – najskuteczniejszy atak 2025 przez fałszywe CAPTCHA, AI ożywia stare zdjęcia, agent AWS kasuje środowisko produkcyjne, Anthropic uderza w rynek COBOL i IBM.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Wieściolist #001 – Złośliwe rozszerzenia AI, 71% obrazów generowanych przez AI, awatarzy influencerzy</title>
       <link>https://wiesciolist.pl/wiesciolist_001.mp3</link>
       <guid isPermaLink="false">wiesciolist-001</guid>
