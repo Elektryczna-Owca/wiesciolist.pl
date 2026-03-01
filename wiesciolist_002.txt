@@ -1,0 +1,135 @@
+Czekaj, no
+To co? 3, 2, 1, zaczynamy Wieściolist
+Witam Tomku
+Dzień dobry
+Ja tak chciałem zreszcieć takim tematem
+Byłem ostatnio na wycieczce z przewodnikiem i on chodzi po górach
+i mówił nam o tym, jak poprawnie oddychać
+i tak sobie od razu o Tobie przypomniałem, bo jesteś ekspertem od oddychania
+Tak, bo my wszyscy oddychamy przez całe życie i przez całe życie oddychamy
+A właśnie powiedział, że całe życie oddychamy źle
+No i słuchaj, tak w skrócie to on mówi, że to trzeba tak szybko wciągasz
+Szybki wdech, taki podwójny nosem
+Tak nawet na dwa razy szybko i potem powolny wydech nosem
+Mówi, że w stu procentach oddychamy tylko nosem
+I po tym wydechu powstrzymujemy wdech i wydech na jakieś pół, dziesięć, dwadzieścia sekund
+Iż to jest bardzo dobre i to pozwoli tam mniejsze zadyszki dostawać
+W ogóle będzie świetne na wszystko
+I w czasie chodzenia?
+Może nie do końca w czasie chodzenia, ale byłby przed
+Na przykład rano wstajesz, coś takiego robisz
+Albo jak się zmęczyć, żeby stanąć i zrobić coś takiego
+Ale tak sobie pomyślałem, czy to się zgadza z Twoim stanem wiedzy?
+No ja się skupiam na dwóch metodach, ale mogę powiedzieć o metodzie Andrew Hubermana
+Jeśli chodzi o tak naprawdę wydolność płuc, to są inne metody
+Bujenko, tutaj jest bardzo dobre, ale ja pokażę teraz jeszcze
+Hubermana w skrócie
+To się nazywa physical sight
+To co robimy, to tak naprawdę wdychamy powietrze dosyć mocno
+Można nosem albo ustami
+I później jeszcze dociągamy nosem
+I później na spokojnie wypuszczamy przez 8 sekund
+I to jest super, jeśli jesteśmy zestresowani na przykład przed takim podcastem albo przed wyjściem na scenę
+A więc twój Tomku, jak najbardziej do zwiększenia wydolności
+Czyli przed następnym wyjście listem
+A to, że nosem? Tylko nosem?
+No bo jest to taka książka o tym, że powinniśmy nosem
+My jeżeli popatrzymy na zwierzęta jak śpią, to co?
+To śpią z zamkniętymi mordkami
+Nie, nie przyglądałem się
+No nie, z zamkniętymi, bo one oddychają nosem
+I my powinniśmy tak naprawdę defultowo oddychać nosem
+Dobra, czyli zgadzamy się nosem szybki wdech, wolny wydech
+Tak, dokładnie
+To zaczynamy
+Więc tak, ja tak naprawdę zmieniłem temat
+Na ostatnią chwilę zmieniłem temat, ponieważ przeczytałem raport
+Którą oczywiście będziemy wyjścić o liście
+O takiej metodzie ataku, o której zresztą pisaliśmy już jakiś czas temu u nas
+Click Fix to nazwali
+Mhm
+Ale generalnie chodzi o to
+Chodzi o nadużycie CAPTCHA
+Mamy mnóstwo CAPTCHA, prawda?
+Wchodzisz na co drugą stronę i gdzieś tam się pojawia ta CAPTCHA
+Jest sprawdzenie czy nie jesteś robotem
+Teraz wydomanie
+Trzeba jakiś głupikort pisać, nie?
+Trzeba robić różne rzeczy, ale generalnie problem z CAPTCHAmi jest taki, że wyświetla nam się coś na stronie internetowej, co mówi nam, żeby dalej dostać dostęp do tej strony musimy coś zrobić
+Tak
+I my jako użytkownicy jesteśmy przyzwyczajeni do tego, że po prostu bierzemy te instrukcje tak jak sami je wykonujemy
+No więc bardzo sprytni tak naprawdę hakerzy wykorzystali to w ten sposób, że mówią ci, że kliknij sobie tutaj
+To ci skopiuje coś tam do schowka i później naciśnij Windows R, ten znaczek Windowsa i literka R
+To uruchamia taki Run dialog, czyli uruchamianie jakichś polecenia i potem mówią, że naciśnij Ctrl V
+Czyli skopiowanie tego, co właśnie wzięłeś ze strony, strona ci wrzuciła do schowka twojego, skopiowanie tego do twojego komputera i uruchomienie tego, zupełnie na ślepo
+Ok?
+Czyli na ślepo, zupełnie bez żadnych wirusów, bez niczego uruchamiamy zdalny kod, który już może robić wszystko, może ściągnąć dodatkowe komponenty, dodatkowe pliki wykonywane, przejąć kontrolę i tak dalej
+I właśnie raport, o którym będziemy pisali, jest o tyle przerażający, że według nich, na podstawie dosyć dużej ilości danych, 52% wszystkich udanych zainfekowań komputera w 2025 było za pomocą tego klik fixa
+Wow
+Czyli najskuteczniejszy w tym momencie atak
+Tomku, jaka jest rada dla słuchaczy i czytaczy? Wieście lista?
+Zobaczymy, jak to wygląda z zablokowaniem w ogóle tego CTRL-R, bo chyba nie jest takie proste, ale to jeszcze bym sprawdzał, ale na pewno to jest opera trola edukacyjna, także wrzucimy jakieś screenshoty i my, czyli nasi czytacze i słuchacze i ich znajomi
+Powinni wiedzieć o tym, że ktokolwiek, cokolwiek prosi nas o naciśnięcie tego magicznego Windows R, no to to już jest taka czerwona flaga, nie robimy
+To jest podejrzane
+To jest bardzo podejrzane, nie robimy
+Nie wciskamy
+Nie wciskamy
+Dzwonimy do nas, do znajomych, rodzinnych, technicznych
+Dzięki bardzo
+A co Ty przygotowałeś?
+Ja dla odmiany o AI
+Mamy nowego subskrybera, który jakiś czas temu zainteresował mnie swoją inicjatywą, co dać dziadkowi, albo babci, albo tacie na urodziny
+I tutaj AI może nam pomóc i tak naprawdę jestem pełen, pełen entuzjazmu, jeśli chodzi o jego pomysł
+I on stworzył dla swojego dziadka, ten subskryber, takie wideo na podstawie starych zdjęć i ożywił historię swojego dziadka
+A więc dziadek nie tylko ogląda te zdjęcia, ale widzi sytuacje, w których był kiedyś i one są ożywione, to jest animowane
+Z tego co pamiętam, użył Min Cheneya, Clinger AI i Eleven Labs
+I naprawdę, jeżeli macie jakieś, jak zastanawiacie się co dać waszym rodzicom, czy dziadkom, to to jest super pomysł, trochę pracy
+Z tego co pamiętam, rozmawiałem z nim 16 godzin, nie wiem, czy będę mógł się podzielić tym YouTubem Unlisted
+Ale zapytam się naszego nowego subskrybera, czy możemy się podzielić w newsletterze, jeżeli nie, to możecie pisać ewentualnie
+No nie może się podzielić z kimś osobiście, ale super pomysł, myślę, że to fajny pomysł
+Wiesz co, ja w ogóle tak się zastanawiałem nad jakich czas temu, nad zakupem skanera do starych zdjęć, a może to jest w ogóle świetny pomysł na model biznesowy
+Czyli nie dość, że skanowanie, to jeszcze właśnie jakoś ożywianie
+Ożywianie, ożywimy twoje skanienie
+Mamy nazwę firmy, super
+Zapraszamy
+Dobra, drugie, to już bardziej wchodzę w tematykę Tomka, a więc będę robił jeszcze research i pytał się Tomka i zastanawiał się, czy możemy to opublikować
+Ale widzimy, że AI uderza w wiele sfer i widzimy reakcję, może tak, cofnę się
+Cofnę się trochę wcześniej
+W grudniu 2025 roku, agent AI wewnątrz Amazon Web Services wybrał strategię Delay and Recreate Environment
+Co doprowadziło do 13-godzinnej niedostępności usłów i Cost Explorer w części rynku Chin
+Amazon twierdzi, że problemem tak naprawdę były źle skonfigurowane uprawnienia, nie samowola AI'a
+Więc nie musimy się bać, AI się nie zbuntował
+AI było logiczne po prostu i skasował środowisko, bo stwierdził, że lepiej ten kod napisać od nowa
+I równolegle widzimy też reakcję rynku na modernizację systemów opartych na COBAL
+COBAL, pamiętasz?
+COBAL, no
+Taki COBOL, o właśnie, COBOL, taki stary język
+I gdy Antrofic ogłosił narzędzia, które mogą radykalnie przyspieszyć migrację COBOLa
+Wycena IBMa zaliczyła największy jednodniowy spadek od 25 lat
+Pytanie czy AI jest złe?
+To jest w ogóle świetna historia
+Osobiście znam ludzi, którzy pracują właśnie, albo pracowali w takich właśnie starych językach, gdzieś tam w bankach, zwłaszcza w Irlandii
+I to są ludzie jeszcze starsi niż ja, wyobraź sobie
+I oni właśnie zajmują się tymi mainframe'ami, zajmują się tego typu językami, ponieważ nie ma nikogo innego, kto albo to zna, albo byłby skłonny w stanie, czy chciał się tego uczyć
+I faktycznie oni są bardzo dobrze opłacani, także to jest taka nisza, ale to naprawdę faktycznie może być dużym, sporym źródłem przychodów firmy, jestem w stanie w to uwierzyć
+I faktycznie, to jest idealne do zastąpienia AI
+No
+Więc nie ma żadnego problemu, jest mnóstwo kodów dostępnych, nie ma żadnego problemu, żeby taki cloud się tego nauczył i zaproponował migrację
+Co może nie zastąpi do końca tych wszystkich ludzi, ale na pewno może ograniczyć takie zapotrzebowanie na nich
+Super, super, a więc z jednej strony widzimy, że AI jest takim wzmacniaczem, ożywia wspomnienia, skraca dekady migracji systemów, ale z drugiej strony też może zaatakować te prace, które wydawały się nietykalne
+Tak, jak najbardziej, jeśli chodzi o programistów, to teraz jestem prawie, że przekonany, że zostaniemy zastąpieni 90%
+No i co, i na koniec B-Real, o tym mówiliśmy tydzień temu, jakie są Twoje doświadczenia?
+B-Real, zapisałem się, założyłem konto i faktycznie to działa w ten sposób, że codziennie trzeba, tam w jakiejś losowej godzinie, trzeba wrzucić to zdjęcie, bo inaczej nie wiem w sumie jaka jest kara, bo codziennie wrzucam te zdjęcia
+Więc codziennie wrzucam te zdjęcia do B-Real'a, nie mam żadnych lajków, żadnych followersów, żadnych friendsów nie mam
+Te zdjęcia się codziennie kasują, więc tak de facto to jest do śmieci, więc w sumie to tak jak w rzeczywistym świecie
+To jest taki social network, który faktycznie odzwierciedla Twój świat rzeczywisty
+Oczywiście, może jestem szczerze mówiąc zachwycony, że to jest dokładnie to co jest potrzebne
+Także chciałbym zachęcić Ciebie i innych, chociaż może jedną osobę jak gdyby zachęcę do tego, to chociaż będziemy tak się tymi zdjęciami
+Będziemy widzieć sobie te zdjęcia
+Ale powiem Ci, że może to jest właśnie to, bo faktycznie tam nie ma żadnego powodu, żeby tam być i te zdjęcia umieszczać
+Poza tym, że faktycznie jesteś zainteresowany tą inną osobą, żeby widzieć codziennie jedno jej zdjęcie z jakiejś losowej sytuacji
+Pierwszy z samochodu, z ulicy, ze spaceru i tak dalej
+Więc ja jestem zachwycony
+Zachwycony, więc co? Zachęcamy, Tomek zaprasza do B-Real, bądźmy autentyczni
+Dziękujemy
+Dziękujemy
