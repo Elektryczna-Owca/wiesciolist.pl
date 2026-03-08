@@ -23,6 +23,30 @@
     <itunes:category text="Technology"/>
 
     <item>
+      <title>Wieściolist #003 – Smart odkurzacze szpiegują 7000 domów, Anthropic odmawia Pentagonowi, Claude vs ChatGPT</title>
+      <link>https://wiesciolist.pl/wiesciolist_003.mp3</link>
+      <guid isPermaLink="false">wiesciolist-003</guid>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>W tym odcinku:</p>
+        <ul>
+          <li>Dzień Kobiet – nagrywamy w niedzielę 8 marca, pozdrowienia dla wszystkich kobiet</li>
+          <li>Poranne spacery i słońce – badania Andrew Hubermana o regulacji rytmu dobowego, kortyzolu i melatoniny</li>
+          <li>Smart odkurzacze DJI – brak zabezpieczeń: researcher przez vibe coding uzyskał dostęp do 7000 robotów w sieci (live wideo i audio)</li>
+          <li>Claude vs ChatGPT – Anthropic odmówił Pentagonowi podpisania umowy o AI w autonomicznych systemach broni; OpenAI podpisał; ChatGPT odinstalowano 295% więcej razy 28 lutego</li>
+          <li>Gemini i analiza długich wideo – duże okno kontekstowe wciąż w czołówce</li>
+          <li>Konferencja Grywalizacja w edukacji – Politechnika Gdańska, 9 marca</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://wiesciolist.pl/wiesciolist_003.mp3" length="9707381" type="audio/mpeg"/>
+      <itunes:title>Wieściolist #003</itunes:title>
+      <itunes:summary>Smart odkurzacze bez zabezpieczeń – dostęp do 7000 domów, Anthropic odmawia Pentagonowi umowy o autonomicznych systemach broni, Claude kontra ChatGPT.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Wieściolist #002 – ClickFix: 52% ataków przez fałszywe CAPTCHA, AI ożywia wspomnienia, COBOL i IBM</title>
       <link>https://wiesciolist.pl/wiesciolist_002.mp3</link>
       <guid isPermaLink="false">wiesciolist-002</guid>
